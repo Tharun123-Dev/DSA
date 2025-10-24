@@ -17,7 +17,7 @@
 #
 
 #dsa is a data structure and algorithms 
-#  values sotred in the container like lists and stack etc
+#values sotred in the container like lists and stack etc
 #to search an element
 #
 
